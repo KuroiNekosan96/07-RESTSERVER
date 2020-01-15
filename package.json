@@ -4,9 +4,12 @@
     "description": "Mongo Db ",
     "main": "index.js",
     "dependencies": {
+        "bcrypt": "^3.0.2",
         "body-parser": "^1.19.0",
         "express": "^4.17.1",
-        "mongoose": "^4.13.20"
+        "mongoose": "^4.13.20",
+        "mongoose-beautiful-unique-validation": "^7.1.1",
+        "underscore": "^1.9.2"
     },
     "devDependencies": {},
     "scripts": {
