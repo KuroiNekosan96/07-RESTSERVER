@@ -163,4 +163,5 @@ app.delete('/usuario/:id', function(req, res) {
         })
     })
     //NO BORRAR REGISTROS TIP DE LA VIDA!!!! ALV
+    //Tareas desde celular a la base en android
 module.exports = app;
